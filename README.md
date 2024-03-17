@@ -31,3 +31,6 @@ You can set these variables in your shell, or you can use a `.env` file and load
 The application will start streaming posts from the 'wallstreetbets' subreddit. For each post, it will generate a summary and an image, and open the image in a web browser.
 
 Note: The Flask server is currently commented out in the `main.py` file. If you want to use it, uncomment the last two lines of the file and visit `localhost:5000` in your web browser after starting the application.
+
+
+![img-qDhXFBwj5qqn1vWwhbdV50cQ](https://github.com/shubham0831/dg-fintech/assets/10244040/8794051b-795a-4fb9-87a0-1ec80c5c161f)
